@@ -1,0 +1,27 @@
+# Core Framework
+streamlit==1.32.0
+pandas==2.2.1
+numpy==1.26.4
+
+# Data Processing & Validation
+openpyxl==3.1.2
+xlrd==2.0.1
+python-dateutil==2.9.0
+
+# Visualization
+plotly==5.20.0
+matplotlib==3.8.3
+seaborn==0.13.2
+
+# Statistics & ML
+scikit-learn==1.4.1
+scipy==1.12.0
+
+# NLP (Optional Enhancement)
+nltk==3.8.1
+
+# Export
+xlsxwriter==3.2.0
+
+# Utilities
+python-magic==0.4.27
